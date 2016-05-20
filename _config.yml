@@ -1,0 +1,28 @@
+name: Energía Social Sustentable
+favicon: null
+layout_spectrum: 0.43400275451131165
+typography_spectrum: 0.8496371519286186
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8515381950419396
+  lightness: 0.3553833169862628
+  saturation: 0.685136279091239
+  rhythmicContrast: 0.07979279826395214
+purpose: []
